@@ -3,6 +3,7 @@
 I'm Vivek Alladi, a passionate Application Developer.
 
 LinkedIn: https://www.linkedin.com/in/vivek-alladi/
+
 Mail: vivek.alladi26@gmail.com
 
 
