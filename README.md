@@ -2,6 +2,10 @@
 
 I'm Vivek Alladi, a passionate Application Developer.
 
+LinkedIn: https://www.linkedin.com/in/vivek-alladi/
+Mail: vivek.alladi26@gmail.com
+
+
 <!--
 **vivek-alladi/vivek-alladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
