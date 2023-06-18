@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Vivek Alladi, a passionate Application Developer.
+
 <!--
 **vivek-alladi/vivek-alladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
